@@ -13,11 +13,8 @@
 
 Welcome to my GitHub profile! I'm an experienced Software Engineer with a passion for learning new technologies and creating impactful software solutions. Here you'll find a collection of my work, including personal projects and professional experience.
 
-</div>
-
-<div align="center">
-
 ## 🚀 About Me
+</div>
 
 - 🔭 I’m currently working on **[a task app](https://github.com/Dnakitare/task-app)**
 - 🌱 I’m currently learning **Golang and Python**
@@ -25,8 +22,6 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with a passio
 - 🤔 I’m looking for help with **[the next challenge]**
 - 💬 Ask me about **PHP, JavaScript, Laravel, Vue.js, and more!**
 - 📫 How to reach me: [dnakitare@gmail.com](mailto:dnakitare@gmail.com)
-
-</div>
 
 <div align="center">
 
@@ -58,10 +53,6 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with a passio
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 </div>
 
-</div>
-
-<div align="center">
-
 ## 📈 GitHub Stats
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnakitare&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)
@@ -69,8 +60,6 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with a passio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnakitare&layout=compact&theme=radical)
 
 </div>
-
-<div align="center">
 
 ## 📚 Projects
 
@@ -82,11 +71,11 @@ A cybersecurity training platform developed with Laravel and Livewire.
 
 A simple and intuitive expense tracker.
 
-</div>
-
 <div align="center">
 
 ## 💼 Experience
+
+</div>
 
 ### Full Stack Developer at Sensible Care
 - Developed and maintained scalable web applications using PHP, Laravel, Vue.js, and PostgreSQL.
@@ -111,8 +100,6 @@ A simple and intuitive expense tracker.
 - Worked remotely on a small, agile, high-performance team, designing and building integrations and APIs.
 - Utilized a cloud-based development environment with AWS EC2 instances running Docker containers and an Nginx reverse proxy.
 - Contributed to projects including columbuslibrary.org, opportunityport.org, and afcpe.org.
-
-</div>
 
 <div align="center">
 
