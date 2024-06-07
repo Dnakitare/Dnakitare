@@ -72,7 +72,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats-git-master-dnakitares-projects.vercel.app/api?username=Dnakitare&show_icons=true&rank_icon=percentile&theme=transparent">
+  <img src="https://github-readme-stats-git-master-dnakitares-projects.vercel.app/api?username=Dnakitare&hide_title=true&&hide=stars,commits,prs,issues,contribs&rank_icon=percentile&theme=transparent">
 </p>
 
 <p align="center">
