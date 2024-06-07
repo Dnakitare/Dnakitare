@@ -1,8 +1,8 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Daniel;Let's+build+something+together" alt="Typing SVG" /></a>
-<p/>
-  
 <br>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=800&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=700&height=200&lines=Hi+there%2C+I'm+Daniel;Let's+build+something+together" alt="Typing SVG" /></a>
+<p/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dnakitare/">
     <img src="https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white">
@@ -26,7 +26,7 @@
           <li>🔭 I’m currently working on <strong><a href="https://github.com/Dnakitare/task-app">a task app</a></strong></li>
           <li>🌱 I’m currently learning <strong>Golang and Python</strong></li>
           <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
-          <li>🤔 I’m looking for help with <strong><a href="#">the next challenge</a></strong></li>
+          <li>🤔 I’m looking for help with <strong>the next challenge</strong></li>
           <li>💬 Ask me about <strong>PHP, JavaScript, Laravel, Vue.js, and more!</strong></li>
           <li>📫 How to reach me: <a href="mailto:dnakitare@gmail.com">dnakitare@gmail.com</a></li>
         </ul>
