@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hi there, I'm Daniel 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnakitare/)](https://www.linkedin.com/in/dnakitare/)
@@ -10,7 +12,7 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with a passio
 - 🔭 I’m currently working on **[a task app](https://github.com/Dnakitare/task-app)**
 - 🌱 I’m currently learning **Golang and Python**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **[the next challege]**
+- 🤔 I’m looking for help with **[the next challenge]**
 - 💬 Ask me about **PHP, JavaScript, Laravel, Vue.js, and more!**
 - 📫 How to reach me: [dnakitare@gmail.com](mailto:dnakitare@gmail.com)
 
@@ -56,29 +58,30 @@ A simple and intuitive expense tracker.
 
 ### Full Stack Developer at Sensible Care
 - Developed and maintained scalable web applications using PHP, Laravel, Vue.js, and PostgreSQL.
--	Designed and implemented features in Greenfield applications and maintained legacy projects, delivering clean and scalable code.
--	Leveraged Docker containers and Laravel Sail to optimize development processes.
--	Automated medical referral processing using Tesseract OCR.
--	Seamlessly integrated APIs with payment processors and insurance coverage services to enhance system functionality.
--	Migrated business-critical features from legacy projects into a monolithic Laravel application, improving user experience and operational efficiency.
--	Actively engaged with business units to gather and analyze requirements, ensuring software solutions increased efficiency and reduced operational costs.
+- Designed and implemented features in Greenfield applications and maintained legacy projects, delivering clean and scalable code.
+- Leveraged Docker containers and Laravel Sail to optimize development processes.
+- Automated medical referral processing using Tesseract OCR.
+- Seamlessly integrated APIs with payment processors and insurance coverage services to enhance system functionality.
+- Migrated business-critical features from legacy projects into a monolithic Laravel application, improving user experience and operational efficiency.
+- Actively engaged with business units to gather and analyze requirements, ensuring software solutions increased efficiency and reduced operational costs.
 
 ### Software Developer at nQ Zebraworks
-
--	Designed and developed the backend of a business intelligence dashboard feature on an existing cloud-based practice management product.
--	Collaborated weekly with design and QA teams to ensure project success.
--	Created and optimized complex MySQL queries to ensure data accuracy and reduce infrastructure and operational costs.
--	Leveraged Redis and Laravel jobs to enhance platform performance through caching and deferred processing.
--	Worked on various projects involving the Laravel framework and Vue.js, enhancing system architecture and scalability.
+- Designed and developed the backend of a business intelligence dashboard feature on an existing cloud-based practice management product.
+- Collaborated weekly with design and QA teams to ensure project success.
+- Created and optimized complex MySQL queries to ensure data accuracy and reduce infrastructure and operational costs.
+- Leveraged Redis and Laravel jobs to enhance platform performance through caching and deferred processing.
+- Worked on various projects involving the Laravel framework and Vue.js, enhancing system architecture and scalability.
 
 ### Software Engineer at Buckeye Interactive
--	Architected new features for new and existing projects while working closely with project owners and stakeholders.
--	Built MVPs for multiple clients simultaneously using Laravel/React and custom WordPress themes.
--	Maintained existing PHP-based products by performing bug fixes and feature builds.
--	Worked remotely on a small, agile, high-performance team, designing and building integrations and APIs.
--	Utilized a cloud-based development environment with AWS EC2 instances running Docker containers and an Nginx reverse proxy.
--	Contributed to projects including columbuslibrary.org, opportunityport.org, and afcpe.org.
+- Architected new features for new and existing projects while working closely with project owners and stakeholders.
+- Built MVPs for multiple clients simultaneously using Laravel/React and custom WordPress themes.
+- Maintained existing PHP-based products by performing bug fixes and feature builds.
+- Worked remotely on a small, agile, high-performance team, designing and building integrations and APIs.
+- Utilized a cloud-based development environment with AWS EC2 instances running Docker containers and an Nginx reverse proxy.
+- Contributed to projects including columbuslibrary.org, opportunityport.org, and afcpe.org.
 
 ## 📫 Get In Touch
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dnakitare/) or [email](mailto:dnakitare@gmail.com).
+
+</div>
