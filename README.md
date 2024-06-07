@@ -2,10 +2,20 @@
   
 # Hi there, I'm Daniel 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dnakitare/)](https://www.linkedin.com/in/dnakitare/)
-[![Gmail Badge](https://img.shields.io/badge/-dnakitare@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnakitare@gmail.com)](mailto:dnakitare@gmail.com)
+<div>
+  <a href="https://www.linkedin.com/in/dnakitare/">
+    <img src="https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dnakitare@gmail.com">
+    <img src="https://img.shields.io/badge/-dnakitare@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</div>
 
 Welcome to my GitHub profile! I'm an experienced Software Engineer with a passion for learning new technologies and creating impactful software solutions. Here you'll find a collection of my work, including personal projects and professional experience.
+
+</div>
+
+<div align="center">
 
 ## 🚀 About Me
 
@@ -16,33 +26,51 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with a passio
 - 💬 Ask me about **PHP, JavaScript, Laravel, Vue.js, and more!**
 - 📫 How to reach me: [dnakitare@gmail.com](mailto:dnakitare@gmail.com)
 
+</div>
+
+<div align="center">
+
 ## 🛠️ Skills
 
 ### Languages
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
+</div>
 
 ### Frameworks & Libraries
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+</div>
 
 ### Tools & Platforms
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+</div>
+
+</div>
+
+<div align="center">
 
 ## 📈 GitHub Stats
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnakitare&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnakitare&layout=compact&theme=radical)
+
+</div>
+
+<div align="center">
 
 ## 📚 Projects
 
@@ -53,6 +81,10 @@ A cybersecurity training platform developed with Laravel and Livewire.
 ### [Obolus](https://github.com/Dnakitare/Obolus)
 
 A simple and intuitive expense tracker.
+
+</div>
+
+<div align="center">
 
 ## 💼 Experience
 
@@ -79,6 +111,10 @@ A simple and intuitive expense tracker.
 - Worked remotely on a small, agile, high-performance team, designing and building integrations and APIs.
 - Utilized a cloud-based development environment with AWS EC2 instances running Docker containers and an Nginx reverse proxy.
 - Contributed to projects including columbuslibrary.org, opportunityport.org, and afcpe.org.
+
+</div>
+
+<div align="center">
 
 ## 📫 Get In Touch
 
