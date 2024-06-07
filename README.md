@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with a passio
 
 ## 📚 Projects
 
-### [CyberSec Quiz Platform](https://github.com/Dnakitare/CyberSecQuizPlatform)
+### [CyberSec Quiz Platform](https://github.com/Dnakitare/cybersec-quiz)
 
 A cybersecurity training platform developed with Laravel and Livewire.
 
