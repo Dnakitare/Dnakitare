@@ -72,11 +72,15 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dnakitare&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnakitare&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=transparent">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnakitare&layout=compact&theme=radical">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-gules.vercel.app?user=Dnakitare&theme=transparent&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnakitare&layout=compact&theme=transparent">
 </p>
 <br>
 
