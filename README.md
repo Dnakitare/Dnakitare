@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with a passio
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Manuflux](https://github.com/Dnakitare/task-app)**
+- 🔭 I’m currently working on **[a task app](https://github.com/Dnakitare/task-app)**
 - 🌱 I’m currently learning **Golang and Python**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **[the next challege]**
