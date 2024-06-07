@@ -72,7 +72,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dnakitare&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats-git-master-dnakitares-projects.vercel.app/api?username=Dnakitare&show_icons=true&rank_icon=percentile&theme=transparent">
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnakitare&layout=compact&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnakitare&layout=compact&hide_progress=true&theme=transparent">
 </p>
 <br>
 
