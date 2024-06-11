@@ -23,7 +23,7 @@
     <tr>
       <td>
         <ul>
-          <li>🔭 I’m currently working on <strong><a href="https://github.com/Dnakitare/task-app">a task app</a></strong></li>
+          <li>🔭 I’m currently working on <strong><a href="https://github.com/Dnakitare/task-app">a task app</a></strong></li> and a <strong><a href="https://github.com/Dnakitare/photo-release-checker">a photo release checker app</a></strong></li>
           <li>🌱 I’m currently learning <strong>Golang and Python</strong></li>
           <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
           <li>🤔 I’m looking for help with <strong>the next challenge</strong></li>
