@@ -90,6 +90,7 @@
     <tr>
       <td>
         <ul>
+          <li><strong><a href="https://github.com/Dnakitare/laravel-outbox">Laravel Outbox</a></strong> - A Laravel package that ensures reliable message delivery in distributed systems.</li>
           <li><strong><a href="https://github.com/Dnakitare/cybersec-quiz">CyberSec Quiz Platform</a></strong> - A cybersecurity training platform developed with Laravel and Livewire.</li>
           <li><strong><a href="https://github.com/Dnakitare/Obolus">Obolus</a></strong> - A simple and intuitive expense tracker.</li>
         </ul>
