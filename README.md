@@ -108,34 +108,32 @@
     <tr>
       <td>
         <ul>
+          <li><strong>Senior Developer at nQ Zebraworks</strong>
+            <ul>
+              <li>Leading development of DataQ product's API infrastructure for law firm data integration</li>
+              <li>Architecting high-performance RESTful APIs with OAuth2 and role-based access control</li>
+              <li>Implementing robust security protocols for legal sector compliance</li>
+            </ul>
+          </li>
           <li><strong>Full Stack Developer at Sensible Care</strong>
             <ul>
-              <li>Developed and maintained scalable web applications using PHP, Laravel, Vue.js, and PostgreSQL.</li>
-              <li>Designed and implemented features in Greenfield applications and maintained legacy projects, delivering clean and scalable code.</li>
-              <li>Leveraged Docker containers and Laravel Sail to optimize development processes.</li>
-              <li>Automated medical referral processing using Tesseract OCR.</li>
-              <li>Seamlessly integrated APIs with payment processors and insurance coverage services to enhance system functionality.</li>
-              <li>Migrated business-critical features from legacy projects into a monolithic Laravel application, improving user experience and operational efficiency.</li>
-              <li>Actively engaged with business units to gather and analyze requirements, ensuring software solutions increased efficiency and reduced operational costs.</li>
+              <li>Led greenfield projects using PHP/Laravel, Vue.js, and Docker for telehealth platform</li>
+              <li>Modernized billing infrastructure processing millions in insurance/patient payments</li>
+              <li>Automated medical referral processing with Tesseract OCR and API integrations</li>
             </ul>
           </li>
           <li><strong>Software Developer at nQ Zebraworks</strong>
             <ul>
-              <li>Designed and developed the backend of a business intelligence dashboard feature on an existing cloud-based practice management product.</li>
-              <li>Collaborated weekly with design and QA teams to ensure project success.</li>
-              <li>Created and optimized complex MySQL queries to ensure data accuracy and reduce infrastructure and operational costs.</li>
-              <li>Leveraged Redis and Laravel jobs to enhance platform performance through caching and deferred processing.</li>
-              <li>Worked on various projects involving the Laravel framework and Vue.js, enhancing system architecture and scalability.</li>
+              <li>Built business intelligence platform with real-time dashboards for law firm operations</li>
+              <li>Optimized infrastructure costs by 50% through MySQL query optimization</li>
+              <li>Improved processing speed by 75% using Redis and Laravel job queues</li>
             </ul>
           </li>
           <li><strong>Software Engineer at Buckeye Interactive</strong>
             <ul>
-              <li>Architected new features for new and existing projects while working closely with project owners and stakeholders.</li>
-              <li>Built MVPs for multiple clients simultaneously using Laravel/React and custom WordPress themes.</li>
-              <li>Maintained existing PHP-based products by performing bug fixes and feature builds.</li>
-              <li>Worked remotely on a small, agile, high-performance team, designing and building integrations and APIs.</li>
-              <li>Utilized a cloud-based development environment with AWS EC2 instances running Docker containers and an Nginx reverse proxy.</li>
-              <li>Contributed to projects including columbuslibrary.org, opportunityport.org, and afcpe.org.</li>
+              <li>Led development of 5 web applications using Laravel/React and WordPress</li>
+              <li>Architected cloud development infrastructure with AWS EC2 and Docker</li>
+              <li>Built solutions for major clients including Columbus Library and AFCPE</li>
             </ul>
           </li>
         </ul>
@@ -143,7 +141,6 @@
     </tr>
   </table>
 </div>
-<br>
 
 <h2 align="center">📫 Get In Touch</h2>
 
