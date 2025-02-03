@@ -43,8 +43,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/-Laravel-3776AB?style=flat&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-00ADD8?style=flat&logo=mysql&logoColor=white">
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
