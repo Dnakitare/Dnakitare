@@ -23,7 +23,7 @@
     <tr>
       <td>
         <ul>
-          <li>🔭 In my free time I'm currently working on a Laravel package that ensures reliable event and job processing in distributed systems by implementing the Transactional Outbox Pattern, guaranteeing message delivery even during system failures. <strong><a href="https://github.com/Dnakitare/laravel-outbox">task app</a></strong></li>
+          <li>🔭 In my free time I'm currently working on a Laravel package that ensures reliable event and job processing in distributed systems by implementing the Transactional Outbox Pattern, guaranteeing message delivery even during system failures. <strong><a href="https://github.com/Dnakitare/laravel-outbox">Laravel Outbox</a></strong></li>
           <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
           <li>🤔 I’m looking for help with <strong>the next challenge</strong></li>
           <li>💬 Ask me about <strong>PHP, JavaScript, Laravel, Vue.js, MySQL/PostgreSQL, Redis, and more!</strong></li>
