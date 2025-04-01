@@ -47,12 +47,31 @@ class DanielNakitare extends Engineer
 }
 ```
 
-## `< metrics />`
+## `< focus />`
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-dnakitares-projects.vercel.app/api?username=Dnakitare&hide_title=true&&hide=stars,commits,prs,issues,contribs&rank_icon=percentile&theme=tokyonight&border_color=2E77CF">
-  
-  <img width="95%" src="https://github-readme-streak-stats-six-gules.vercel.app?user=Dnakitare&theme=tokyonight&mode=weekly&border=2E77CF">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>Backend Architecture</h3>
+        <p>Building resilient, scalable systems that handle millions of requests</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>Data Engineering</h3>
+        <p>Optimizing database performance and designing efficient data flows</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>API Design</h3>
+        <p>Creating intuitive, well-documented, and high-performance interfaces</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>System Reliability</h3>
+        <p>Implementing patterns that ensure consistent operation at scale</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## `< projects />`
