@@ -78,9 +78,9 @@ class DanielNakitare extends Engineer
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Laravel Outbox**](https://github.com/Dnakitare/laravel-outbox) | Guarantees at-least-once message delivery in distributed systems using the Transactional Outbox Pattern. Prevents data loss during service failures. | `Laravel` `PHP` `Redis` |
-| [**CyberSec Quiz**](https://github.com/Dnakitare/atproto-mention-tracker) | A Laravel application for tracking and analyzing mentions on the AT Protocol (Bluesky) platform. | `Laravel` `Redis` `PostgreSQL` |
-| [**Obolus**](https://github.com/Dnakitare/service-agreement-smart-contract) | A comprehensive decentralized service agreement platform built on Ethereum that enables secure, milestone-based service agreements between clients and service providers. | `Node.js` |
+| [**Laravel Outbox Package**](https://github.com/Dnakitare/laravel-outbox) | Guarantees at-least-once message delivery in distributed systems using the Transactional Outbox Pattern. Prevents data loss during service failures. | `Laravel` `PHP` `Redis` |
+| [**AtProtocol Mention Tracker**](https://github.com/Dnakitare/atproto-mention-tracker) | A Laravel application for tracking and analyzing mentions on the AT Protocol (Bluesky) platform. | `Laravel` `Redis` `PostgreSQL` |
+| [**Service Agreement Smart Contract**](https://github.com/Dnakitare/service-agreement-smart-contract) | A comprehensive decentralized service agreement platform built on Ethereum that enables secure, milestone-based service agreements between clients and service providers. | `Node.js` |
 
 ## `< experience />`
 
