@@ -90,8 +90,8 @@ const career = [
     role: "Senior Developer",
     company: "nQ Zebraworks",
     achievements: [
-      "Architected DataQ's API infrastructure processing 2M+ daily requests",
-      "Designed OAuth2 implementation with granular access control",
+      "Architected DataQ's API infrastructure processing 50M+ records daily",
+      "Designed RBAC implementation with granular access control, enforcing conflict of interest compliance through code",
       "Reduced data integration times by 65% through batch processing optimization"
     ]
   },
