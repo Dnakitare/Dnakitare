@@ -50,23 +50,3 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white">
 </div>
 
-## Experience
-
-**Senior Integrations Engineer** -- Carefeed
-- Leading integration architecture connecting EHR and HR systems for healthcare platform
-
-**Senior Developer** -- nQ Zebraworks
-- Architected API infrastructure processing 50M+ records daily
-- Reduced data integration times by 65% through batch processing optimization
-
-**Full Stack Developer** -- Sensible Care
-- Led development of HIPAA-compliant telehealth platform
-- Built billing system handling $5M+ in monthly transactions
-
-**Software Developer** -- nQ Zebraworks
-- 50% cost reduction through database query optimization
-- 75% transaction processing improvement with Redis caching
-
-**Software Engineer** -- Buckeye Interactive
-- Delivered 5 enterprise web applications
-- Established AWS/Docker CI/CD pipeline reducing deployment time by 80%
