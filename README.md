@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Daniel Nakitare</h1>
-  <p>Building the infrastructure that makes AI agents trustworthy.<br>Runtime governance, cryptographic audit trails, and policy enforcement for autonomous systems.</p>
+  <p>Building the control plane for AI agents.<br>Tool governance, intelligent routing, and tamper-proof audit trails for autonomous systems.</p>
 
   <a href="https://www.linkedin.com/in/dnakitare/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dnakitare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -11,11 +11,11 @@
 
 ## Flagship
 
+**[Mavryn](https://github.com/Dnakitare/mavryn)** -- The MCP control plane. One server that proxies all your upstream MCP servers with tool namespacing, TF-IDF search, allow/deny policies, health checks, and audit logging. Replace 15 MCP configs with one. Published on [npm](https://www.npmjs.com/package/mavryn). TypeScript, MIT.
+
 **[Imara](https://github.com/Dnakitare/imara)** -- Runtime governance layer for AI agents. Intercepts MCP tool calls, enforces YAML-based policies, and produces SHA-256 hash-chained audit trails. Real-time dashboard, zero-config setup. Maps to EU AI Act Art. 12/14, SOC 2, and HIPAA compliance frameworks. TypeScript monorepo, 88 tests, Apache 2.0.
 
 ## Current Work
-
-**[Aether](https://github.com/Dnakitare/aether)** -- AI agent runtime with Firecracker microVM isolation, intelligent scheduling, Vault secrets management, and distributed tracing via OpenTelemetry. Go + Terraform, multi-cloud.
 
 **[Prior Auth Assistant](https://github.com/Dnakitare/prior-auth-assistant)** -- AI-powered healthcare prior authorization appeals. OCR extraction with AWS Textract, denial analysis via Claude, payer-specific intelligence. HIPAA-compliant with full audit logging. Python/FastAPI + React.
 
