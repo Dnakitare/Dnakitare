@@ -15,6 +15,8 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
 
 ## Currently Building
 
+**[Aether](https://github.com/Dnakitare/aether)** -- AI agent runtime with hardware-level isolation via Firecracker microVMs. Distributed scheduler, multi-tenant RBAC, PostgreSQL persistence, Kafka messaging, OpenTelemetry observability, Kubernetes/Terraform deployment. 48K lines of Go. Beta.
+
 **[Mavryn](https://github.com/Dnakitare/mavryn)** -- MCP gateway that proxies multiple upstream MCP servers through a single endpoint. Tool namespacing, search, policies, health checks, and audit logging. Published on [npm](https://www.npmjs.com/package/mavryn). TypeScript.
 
 **[Imara](https://github.com/Dnakitare/imara)** -- Runtime governance layer for AI agents. MCP tool call interception, YAML policy engine, SHA-256 hash-chained audit trails, compliance mapping (EU AI Act, SOC 2, HIPAA). TypeScript monorepo, Apache 2.0.
@@ -35,6 +37,7 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
 ## Tech Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -46,8 +49,8 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white">
 </div>
