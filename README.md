@@ -17,13 +17,13 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
 
 **[PhotoPare](https://apps.apple.com/us/app/photopare/id6762467066)** -- Privacy-first iOS app for cleaning up photo libraries. Finds duplicates, blurry shots, and forgotten screenshots using Apple's Vision framework, 100% on-device. No accounts, no uploads, no tracking SDKs. Free to scan, $4.99 one-time unlock for deletion (no subscription). Swift + SwiftUI + StoreKit 2. Launched on the App Store.
 
-## Currently Building
-
-**[Aether](https://github.com/Dnakitare/aether)** -- AI agent runtime with hardware-level isolation via Firecracker microVMs. Distributed scheduler, multi-tenant RBAC, PostgreSQL persistence, Kafka messaging, OpenTelemetry observability, Kubernetes/Terraform deployment. 48K lines of Go. Beta.
+**[Imara](https://github.com/Dnakitare/imara)** -- Runtime governance layer for AI agents. MCP tool call interception, YAML policy engine, SHA-256 hash-chained audit trails, compliance mapping (EU AI Act, SOC 2, HIPAA). Same compliance instincts from healthcare SaaS, applied to autonomous systems. TypeScript monorepo, Apache 2.0, published on [npm](https://www.npmjs.com/package/imara).
 
 **[Mavryn](https://github.com/Dnakitare/mavryn)** -- MCP gateway that proxies multiple upstream MCP servers through a single endpoint. Tool namespacing, search, policies, health checks, and audit logging. Published on [npm](https://www.npmjs.com/package/mavryn). TypeScript.
 
-**[Imara](https://github.com/Dnakitare/imara)** -- Runtime governance layer for AI agents. MCP tool call interception, YAML policy engine, SHA-256 hash-chained audit trails, compliance mapping (EU AI Act, SOC 2, HIPAA). TypeScript monorepo, Apache 2.0.
+## Currently Building
+
+**[Aether](https://github.com/Dnakitare/aether)** -- AI agent runtime with hardware-level isolation via Firecracker microVMs. Distributed scheduler, multi-tenant RBAC, PostgreSQL persistence, Kafka messaging, OpenTelemetry observability, Kubernetes/Terraform deployment. 48K lines of Go. Beta.
 
 **[Kombe](https://github.com/Dnakitare/kombe)** -- AI-assisted iOS SSH terminal with WireGuard tunneling, Claude API command assistance, and a companion macOS daemon. SwiftUI, pre-App Store.
 
