@@ -38,13 +38,17 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
 | [**PDF Dedup**](https://github.com/Dnakitare/pdf-dedup) | Content-aware PDF deduplication, ~91% storage reduction | TypeScript, Node.js |
 | [**Pulse Markets**](https://github.com/Dnakitare/pulse-markets) | Real-time prediction market with WebSocket order books | Laravel, Alpine.js |
 
+## What I Build
+
+Backend systems · APIs and integrations · Data pipelines · AI infrastructure · Compliance-aware systems
+
 ## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
