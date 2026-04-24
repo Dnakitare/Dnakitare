@@ -13,6 +13,10 @@
 
 Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9+ platforms (Epic, PointClickCare, MatrixCare, and others), API design, data pipelines, and compliance-aware systems. Currently a Senior Software Engineer at Carefeed.
 
+## Shipped
+
+**[PhotoPare](https://apps.apple.com/us/app/photopare/id6762467066)** -- Privacy-first iOS app for cleaning up photo libraries. Finds duplicates, blurry shots, and forgotten screenshots using Apple's Vision framework, 100% on-device. No accounts, no uploads, no tracking SDKs. Free to scan, $4.99 one-time unlock for deletion (no subscription). Swift + SwiftUI + StoreKit 2. Launched on the App Store.
+
 ## Currently Building
 
 **[Aether](https://github.com/Dnakitare/aether)** -- AI agent runtime with hardware-level isolation via Firecracker microVMs. Distributed scheduler, multi-tenant RBAC, PostgreSQL persistence, Kafka messaging, OpenTelemetry observability, Kubernetes/Terraform deployment. 48K lines of Go. Beta.
