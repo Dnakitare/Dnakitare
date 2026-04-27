@@ -21,6 +21,8 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
 
 **[Mavryn](https://github.com/Dnakitare/mavryn)** -- MCP gateway that proxies multiple upstream MCP servers through a single endpoint. Tool namespacing, search, policies, health checks, and audit logging. Published on [npm](https://www.npmjs.com/package/mavryn). TypeScript.
 
+**[Prior Auth Assistant](https://github.com/Dnakitare/prior-auth-assistant)** -- Reference architecture for a HIPAA-shaped healthcare AI app: Postgres row-level security with a two-role deployment, Fernet field-level PHI encryption with rotation, HMAC-chained tamper-evident audit log, prompt-injection hardening (delimited nonces + identifier post-validation), Claude doing OCR + extraction + appeal generation through one vendor. Public demo at [prior-auth-assistant.pages.dev](https://prior-auth-assistant.pages.dev). Python, FastAPI, React, MIT.
+
 ## Currently Building
 
 **[Aether](https://github.com/Dnakitare/aether)** -- AI agent runtime with hardware-level isolation via Firecracker microVMs. Distributed scheduler, multi-tenant RBAC, PostgreSQL persistence, Kafka messaging, OpenTelemetry observability, Kubernetes/Terraform deployment. 48K lines of Go. Beta.
@@ -31,7 +33,6 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**Prior Auth Assistant**](https://github.com/Dnakitare/prior-auth-assistant) | Healthcare prior authorization appeals with OCR and LLM analysis | Python, FastAPI |
 | [**PayApp2Excel**](https://github.com/Dnakitare/PayApp2Excel) | Construction pay app PDF to Excel/CSV with LLM extraction | Next.js, TypeScript |
 | [**Laravel Outbox**](https://github.com/Dnakitare/laravel-outbox) | Transactional outbox pattern for reliable distributed messaging | PHP, Laravel |
 | [**Technical Debt Tracker**](https://github.com/Dnakitare/technical-debt-tracker) | Quantifies tech debt in developer-hours and dollars | TypeScript |
