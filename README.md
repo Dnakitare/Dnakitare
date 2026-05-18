@@ -29,6 +29,10 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
 
 **[Kombe](https://github.com/Dnakitare/kombe)** -- AI-assisted iOS SSH terminal with WireGuard tunneling, Claude API command assistance, and a companion macOS daemon. SwiftUI, pre-App Store.
 
+## Writing
+
+**[Castellan](https://github.com/Dnakitare/castellan-notes)** -- Specifications and decision records for a proof-of-concept on delegated authority in local AI agent systems, applied to industrial maintenance work-order triage. Capability-broker architecture, hash-chained audit substrate, refusal as a first-class outcome. Written from the auditor's perspective. Implementation kept private.
+
 ## Selected Projects
 
 | Project | What it does | Stack |
