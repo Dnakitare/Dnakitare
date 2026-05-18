@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Daniel Nakitare</h1>
-  <p>Senior software engineer. 7+ years building production backend systems in healthcare and regulated industries.<br>Former 101st Airborne, Purple Heart. MBA. Pomona College.</p>
+  <p><b>Backend systems where the consequences are real.</b><br>
+  Healthcare, regulated industries, the trust substrate for AI agents.<br>
+  Former 101st Airborne, Purple Heart. MBA. Pomona College.</p>
 
   <a href="https://www.linkedin.com/in/dnakitare/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dnakitare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -11,7 +13,7 @@
 
 ## What I Do
 
-Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9+ platforms (Epic, PointClickCare, MatrixCare, and others), API design, data pipelines, and compliance-aware systems. Currently a Senior Software Engineer at Carefeed.
+Senior Software Engineer at Carefeed. Own all EHR integrations across 9+ platforms (Epic, PointClickCare, MatrixCare) and architected the enterprise PDF/OCR pipeline serving hundreds of healthcare facilities. Authored the team's foundational standards for LLM-assisted coding tools.
 
 ## Shipped
 
@@ -42,10 +44,6 @@ Backend and full-stack engineering in healthcare SaaS. EHR integrations across 9
 | [**Technical Debt Tracker**](https://github.com/Dnakitare/technical-debt-tracker) | Quantifies tech debt in developer-hours and dollars | TypeScript |
 | [**PDF Dedup**](https://github.com/Dnakitare/pdf-dedup) | Content-aware PDF deduplication, ~91% storage reduction | TypeScript, Node.js |
 | [**Pulse Markets**](https://github.com/Dnakitare/pulse-markets) | Real-time prediction market with WebSocket order books | Laravel, Alpine.js |
-
-## What I Build
-
-Backend systems · APIs and integrations · Data pipelines · AI infrastructure · Compliance-aware systems
 
 ## Tech Stack
 
