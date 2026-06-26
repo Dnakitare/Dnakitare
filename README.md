@@ -1,67 +1,45 @@
-<div align="center">
-  <h1>Daniel Nakitare</h1>
-  <p><b>Backend systems where the consequences are real.</b><br>
-  Healthcare, regulated industries, the trust substrate for AI agents.<br>
-  Former 101st Airborne, Purple Heart. MBA. Pomona College.</p>
+# Daniel Nakitare
 
-  <a href="https://www.linkedin.com/in/dnakitare/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:dnakitare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://dnakitare.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white"></a>
-</div>
+Backend systems where the consequences are real. Healthcare, regulated industries, the trust substrate for AI agents. Former 101st Airborne (Purple Heart). MBA.
+
+📍 Rio Rancho, NM · [dnakitare.github.io](https://dnakitare.github.io) · [LinkedIn](https://linkedin.com/in/dnakitare)
 
 ---
 
-## What I Do
+### What I do
 
-Senior Software Engineer at Carefeed. Own all EHR integrations across 9+ platforms (Epic, PointClickCare, MatrixCare) and architected the enterprise PDF/OCR pipeline serving hundreds of healthcare facilities. Authored the team's foundational standards for LLM-assisted coding tools.
+Senior Software Engineer at Carefeed. I own the backend integration architecture across 9+ external EHR and healthcare platforms (Epic, PointClickCare, MatrixCare): data exchange, webhook infrastructure, PDF/OCR pipelines for hundreds of facilities, and the identity and auth layer behind a multi-tenant SaaS platform. PHP and Laravel are my primary production stack.
 
-## Shipped
+Before Carefeed: API and integration infrastructure at legal-tech (nQ Zebraworks) and behavioral-health (Sensible Care) SaaS. Seven years of shipping production backends where a wrong record is a real-world problem, not a failed unit test.
 
-**[PhotoPare](https://apps.apple.com/us/app/photopare/id6762467066)** -- Privacy-first iOS app for cleaning up photo libraries. Finds duplicates, blurry shots, and forgotten screenshots using Apple's Vision framework, 100% on-device. No accounts, no uploads, no tracking SDKs. Free to scan, $4.99 one-time unlock for deletion (no subscription). Swift + SwiftUI + StoreKit 2. Launched on the App Store.
+---
 
-**[Imara](https://github.com/Dnakitare/imara)** -- Runtime governance layer for AI agents. MCP tool call interception, YAML policy engine, SHA-256 hash-chained audit trails, compliance mapping (EU AI Act, SOC 2, HIPAA). Same compliance instincts from healthcare SaaS, applied to autonomous systems. TypeScript monorepo, Apache 2.0, published on [npm](https://www.npmjs.com/package/imara).
+### Backend and integration
 
-**[Mavryn](https://github.com/Dnakitare/mavryn)** -- MCP gateway that proxies multiple upstream MCP servers through a single endpoint. Tool namespacing, search, policies, health checks, and audit logging. Published on [npm](https://www.npmjs.com/package/mavryn). TypeScript.
+**[laravel-outbox](https://github.com/Dnakitare/laravel-outbox)** — Transactional outbox for Laravel. Domain events are persisted atomically with the data that produced them, so a committed write and its event can never disagree.
 
-**[Prior Auth Assistant](https://github.com/Dnakitare/prior-auth-assistant)** -- Reference architecture for a HIPAA-shaped healthcare AI app: Postgres row-level security with a two-role deployment, Fernet field-level PHI encryption with rotation, HMAC-chained tamper-evident audit log, prompt-injection hardening (delimited nonces + identifier post-validation), Claude doing OCR + extraction + appeal generation through one vendor. Public demo at [prior-auth-assistant.pages.dev](https://prior-auth-assistant.pages.dev). Python, FastAPI, React, MIT.
+---
 
-## Currently Building
+### The trust substrate for AI agents
 
-**[Aether](https://github.com/Dnakitare/aether)** -- AI agent runtime with hardware-level isolation via Firecracker microVMs. Distributed scheduler, multi-tenant RBAC, PostgreSQL persistence, Kafka messaging, OpenTelemetry observability, Kubernetes/Terraform deployment. 48K lines of Go. Beta.
+This is where my side work concentrates: the infrastructure *around* an LLM, not the model itself. The LLM is the easy part. The interesting work is everything around it.
 
-**[Kombe](https://github.com/Dnakitare/kombe)** -- AI-assisted iOS SSH terminal with WireGuard tunneling, Claude API command assistance, and a companion macOS daemon. SwiftUI, pre-App Store.
+**[imara](https://github.com/Dnakitare/imara)** — Runtime governance proxy for the Model Context Protocol. Intercepts every tool call, evaluates it against YAML policy (allow, deny, rate-limit, escalate), and records every decision to a tamper-evident, SHA-256 hash-chained audit log (genesis-anchored, with truncation detection). Published on npm. Composes with Mavryn.
 
-## Writing
+**[mavryn](https://github.com/Dnakitare/mavryn)** — MCP gateway. Proxies many upstream MCP servers behind a single endpoint, with tool namespacing, semantic search across tools, policy, and a hash-chained audit trail. Where Imara governs one server's calls, Mavryn routes across many. They are two layers of the same stack.
 
-**[Castellan](https://github.com/Dnakitare/castellan-notes)** -- Specifications and decision records for a proof-of-concept on delegated authority in local AI agent systems, applied to industrial maintenance work-order triage. Capability-broker architecture, hash-chained audit substrate, refusal as a first-class outcome. Written from the auditor's perspective. Implementation kept private.
+**[prior-auth-assistant](https://github.com/Dnakitare/prior-auth-assistant)** — A HIPAA-shaped reference architecture for healthcare AI. Postgres row-level security, field-level PHI encryption, HMAC-chained audit, prompt-injection hardening, and magic-byte upload validation wrapped around a Claude OCR and extraction pipeline. 99 tests, CI against SQLite and Postgres.
 
-## Selected Projects
+**[aether](https://github.com/Dnakitare/aether)** — AI-agent runtime with hardware-level isolation via Firecracker microVMs, distributed scheduling, multi-tenant RBAC, and Kubernetes and Terraform deployment. Around 48K lines of Go. Beta.
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**PayApp2Excel**](https://github.com/Dnakitare/PayApp2Excel) | Construction pay app PDF to Excel/CSV with LLM extraction | Next.js, TypeScript |
-| [**Laravel Outbox**](https://github.com/Dnakitare/laravel-outbox) | Transactional outbox pattern for reliable distributed messaging | PHP, Laravel |
-| [**Technical Debt Tracker**](https://github.com/Dnakitare/technical-debt-tracker) | Quantifies tech debt in developer-hours and dollars | TypeScript |
-| [**PDF Dedup**](https://github.com/Dnakitare/pdf-dedup) | Content-aware PDF deduplication, ~91% storage reduction | TypeScript, Node.js |
-| [**Pulse Markets**](https://github.com/Dnakitare/pulse-markets) | Real-time prediction market with WebSocket order books | Laravel, Alpine.js |
+---
 
-## Tech Stack
+### Shipped
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white">
-</div>
+**[PhotoPare](https://apps.apple.com/app/id6762467066)** — Privacy-first iOS app built on Apple's Vision framework: duplicate, blur, and screenshot cleanup, fully on-device, no tracking. On the App Store with a one-time unlock.
+
+---
+
+### Background
+
+Former 11B infantryman, U.S. Army 101st Airborne Division (Combat Infantry Badge, Purple Heart, Afghanistan). MBA, Temple University (Fox). BA, Pomona College.
