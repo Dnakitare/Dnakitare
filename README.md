@@ -30,7 +30,7 @@ This is where my side work concentrates: the infrastructure *around* an LLM, not
 
 **[prior-auth-assistant](https://github.com/Dnakitare/prior-auth-assistant)** — A HIPAA-shaped reference architecture for healthcare AI. Postgres row-level security, field-level PHI encryption, HMAC-chained audit, prompt-injection hardening, and magic-byte upload validation wrapped around a Claude OCR and extraction pipeline. 99 tests, CI against SQLite and Postgres.
 
-**[aether](https://github.com/Dnakitare/aether)** — AI-agent runtime with hardware-level isolation via Firecracker microVMs, distributed scheduling, multi-tenant RBAC, and Kubernetes and Terraform deployment. Around 48K lines of Go. Beta.
+**[aether](https://github.com/Dnakitare/aether)** — AI-agent runtime with hardware-level isolation via Firecracker microVMs. A single-region control plane: in-process scheduler (bin-packing, spread, best-fit placement), multi-tenant RBAC, PostgreSQL state, and Kubernetes and Terraform deployment. Around 35K lines of Go. Beta.
 
 ---
 
