@@ -8,7 +8,7 @@ Backend systems where the consequences are real. Healthcare, regulated industrie
 
 ### What I do
 
-Senior Software Engineer at Carefeed. I own the backend integration architecture across 9+ external EHR and healthcare platforms (Epic, PointClickCare, MatrixCare): data exchange, webhook infrastructure, PDF/OCR pipelines for hundreds of facilities, and the identity and auth layer behind a multi-tenant SaaS platform. PHP and Laravel are my primary production stack.
+Senior Software Engineer at Carefeed. I own the backend integration architecture across 9+ external EHR and healthcare platforms (Epic, PointClickCare, MatrixCare): data exchange, webhook infrastructure, PDF/OCR pipelines for hundreds of facilities, and the identity and auth layer behind a multi-tenant SaaS platform. I inherited a four-year backlog of 27,000+ failed uploads, fixed the root cause, and shipped the cleanup tooling that brought integrity back above 99%. PHP and Laravel are my primary production stack.
 
 Before Carefeed: API and integration infrastructure at legal-tech (nQ Zebraworks) and behavioral-health (Sensible Care) SaaS. Seven years of shipping production backends where a wrong record is a real-world problem, not a failed unit test.
 
@@ -30,7 +30,7 @@ This is where my side work concentrates: the infrastructure *around* an LLM, not
 
 **[prior-auth-assistant](https://github.com/Dnakitare/prior-auth-assistant)** — A HIPAA-shaped reference architecture for healthcare AI. Postgres row-level security, field-level PHI encryption, HMAC-chained audit, prompt-injection hardening, and magic-byte upload validation wrapped around a Claude OCR and extraction pipeline. 99 tests, CI against SQLite and Postgres.
 
-**[aether](https://github.com/Dnakitare/aether)** — AI-agent runtime with hardware-level isolation via Firecracker microVMs. A single-region control plane: in-process scheduler (bin-packing, spread, best-fit placement), multi-tenant RBAC, PostgreSQL state, and Kubernetes and Terraform deployment. Around 35K lines of Go. Beta.
+**[aether](https://github.com/Dnakitare/aether)** — AI-agent runtime with hardware-level isolation via Firecracker microVMs. A single-region control plane: in-process scheduler (bin-packing, spread, best-fit placement), multi-tenant RBAC, PostgreSQL state, and Kubernetes and Terraform deployment. Beta.
 
 ---
 
