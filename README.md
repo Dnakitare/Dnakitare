@@ -43,3 +43,5 @@ This is where my side work concentrates: the infrastructure *around* an LLM, not
 ### Background
 
 Former 11B infantryman, U.S. Army 101st Airborne Division (Combat Infantry Badge, Purple Heart, Afghanistan). MBA, Temple University (Fox). BA, Pomona College.
+
+<sub>深層降下 — <a href="https://dnakitare.github.io/strata-dive/">nine layers down, arrive quietly</a></sub>
