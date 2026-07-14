@@ -44,4 +44,12 @@ This is where my side work concentrates: the infrastructure *around* an LLM, not
 
 Former 11B infantryman, U.S. Army 101st Airborne Division (Combat Infantry Badge, Purple Heart, Afghanistan). MBA, Temple University (Fox). BA, Pomona College.
 
+---
+
+### Now
+
+Open to senior backend engineering roles, with staff-level scope at the right fit. I do my best work owning a system end to end in production, where a wrong record costs somebody something. Remote (US), based in New Mexico, working Eastern hours. Reach me at dnakitare@gmail.com or via [dnakitare.github.io](https://dnakitare.github.io).
+
+Latest writing: [I broke my own audit log](https://dnakitare.github.io/writing/i-broke-my-own-audit-log.html), a postmortem of breaking verification of my own tamper-evident audit chain in Imara 0.2.0, and the migration design it still owes.
+
 <sub>深層降下 — <a href="https://dnakitare.github.io/strata-dive/">nine layers down, arrive quietly</a></sub>
